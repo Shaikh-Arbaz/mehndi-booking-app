@@ -7,7 +7,7 @@ document.getElementById("bookingForm").addEventListener("submit", function (e) {
   const notes = document.getElementById("notes").value;
 
   const message = `Hi, I'm ${name}. I would like to book a mehndi appointment on ${date}. Notes: ${notes}`;
-  const whatsappURL = `https://wa.me/91${phone}?text=${encodeURIComponent(message)}`;
+  const whatsappURL = `https://wa.me/919892827952?text=${encodeURIComponent(message)}`;
 
   window.open(whatsappURL, "_blank");
 });
