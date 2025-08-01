@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mehndi-booking-app/static/css/main.11c25db2.css",
+    "main.js": "/mehndi-booking-app/static/js/main.1b3dd9f3.js",
+    "index.html": "/mehndi-booking-app/index.html",
+    "main.11c25db2.css.map": "/mehndi-booking-app/static/css/main.11c25db2.css.map",
+    "main.1b3dd9f3.js.map": "/mehndi-booking-app/static/js/main.1b3dd9f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11c25db2.css",
+    "static/js/main.1b3dd9f3.js"
+  ]
+}
